@@ -1,0 +1,19 @@
+{
+  "name": "stoopy-kid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaptAlpha/stoopy-kid.git"
+  },
+  "author": "Arhit Bose Tagore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CaptAlpha/stoopy-kid/issues"
+  },
+  "homepage": "https://github.com/CaptAlpha/stoopy-kid#readme"
+}
